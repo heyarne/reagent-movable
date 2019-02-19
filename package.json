@@ -9,6 +9,6 @@
     "create-react-class": "^15.6.3",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
-    "react-movable": "^2.0.1"
+    "react-sortable-hoc": "^1.6.1"
   }
 }
